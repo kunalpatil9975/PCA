@@ -1,0 +1,2 @@
+# PCA
+Dimension reductionality technique
